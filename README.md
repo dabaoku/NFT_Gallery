@@ -3,15 +3,19 @@
 Use Alchemy NFT API to fetch data and link with Metamask to display NFT.
 
 ### Pre-requirements
-1. Create [Alchemy](https://www.alchemy.com) account
-2. Install [Parcel](https://www.npmjs.com/package/parcel)
-```
-npm i parcel -g
-```
+Create [Alchemy](https://www.alchemy.com) account
 
 ### Demo
 1. Change your Alchemy api in index.js file
-2. Run the command below
+2. Install package 
+```
+npm install
+```
+3. Install [Parcel](https://www.npmjs.com/package/parcel)
+```
+npm i parcel -g
+```
+4. Run the command below
 ```
 parcel index.html
 ```
